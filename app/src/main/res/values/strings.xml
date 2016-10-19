@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_about">About</string>
+    <string name="author" translatable="false">Ryan Doiron (doir0008)</string>
+</resources>
